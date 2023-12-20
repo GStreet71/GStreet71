@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GStreet71
 - 👀 I’m interested in NFL, NBA, ancient history, and music.
-- 🌱 I’m currently learning JavaScript and Python
+- 🌱 I’m currently learning and Python
 - 💞️ I’m looking to gain experience to help facilitate a career switch. 
 - 📫 How to reach me: gharrissr.kc@gmail.com
 
