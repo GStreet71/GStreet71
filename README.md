@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gregory Harris
 - 👀 I’m interested in NFL, NBA, ancient history, and music.
-- 🌱 I’m currently learning JavaScript, Python and Django
-- 💞️ I’m a construction professional looking to gain experience to help facilitate a career switch. 
+- 💞️ I’m a burgeoning Cloud Engineer...
+- 🌱 and I’m currently learning Python and AWS. 
 - 📫 How to reach me: gharrissr.kc@gmail.com
 
 <!---
