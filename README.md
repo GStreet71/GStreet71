@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gregory Harris
-- 👀 I’m interested in NFL, NBA, ancient history, and music.
+- 👀 I’m interested in sports, ancient history, and music.
 - 💞️ I’m a burgeoning Cloud Engineer...
 - 🌱 and I’m currently learning Python and AWS. 
 - 📫 How to reach me: gharrissr.kc@gmail.com
