@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gregory Harris
 - 👀 I’m interested in sports, ancient history, and music.
-- 💞️ I’m a Full Stack Developer and a burgeoning Cloud Engineer...
-- 🌱 and I’m currently learning SFMC and AWS. 
+- 💞️ I’m a Full Stack Developer, Cloud Engineer, a burgeoning Cybersecurity Analyst...
+- 🌱 and I’m currently studying for Google Cybersecurity and AWS Solutions Architect certifications. 
 - 📫 How to reach me: gharrissr.kc@gmail.com
 
 <!---
