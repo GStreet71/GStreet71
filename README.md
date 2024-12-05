@@ -1,7 +1,7 @@
 - 👋 Hi,
 - 👀 I’m interested in sports, ancient history, and music.
-- 💞️ I’m a Full Stack Developer, Cloud Engineer, a burgeoning Cybersecurity Analyst...
-- 🌱 and I’m currently studying for Google Cybersecurity and AWS Solutions Architect certifications. 
+- 💞️ I’m a self-taught Developer...
+- 🌱 and I’m currently studying for an AWS certification. 
 - 📫 How to reach me: gharrissr.kc@gmail.com
 
 <!---
